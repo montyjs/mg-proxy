@@ -13,5 +13,4 @@ This repo contains a reverse proxy server that pulls in all of the components of
 
 1. Clone the repos listed above.
 2. Follow the usage instructions provided with each component's README.md
-3. Start this proxy server with the following command
-  - `npm start`
+3. Start this proxy server by running `npm start` in your terminal.
