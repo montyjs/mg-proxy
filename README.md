@@ -1,6 +1,11 @@
 # REI Item Page - Proxy
 This repo contains a reverse proxy server that pulls in all of the components of our REI item page clone. The components were created by myself and two of my classmates during out time at Hack Reactor as a part of our Front End Capstone. Credits and links to the individual components are are listed below.
 
+# Demo
+[Click here to see a demo of the app](http://mg-proxy-dev.us-west-2.elasticbeanstalk.com/).
+
+This app was deployed with AWS Relational Database Service and AWS Elastic Beanstalk.
+
 ## Components
   #### Product component. Created by [myself](https://github.com/LudwigThePig)
   - https://github.com/montyjs/mg-product-wrapper
